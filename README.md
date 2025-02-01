@@ -3,4 +3,4 @@
 ### My Boring Things
 - Currently Studying in AITD
 - Graduating in Electronics and Computer Science
-- Interned at [Gryffin RoboTech](https://griffyn.io/) (2019)
+- Interned at [Griffyn RoboTech](https://griffyn.io/) (2019)
